@@ -20,13 +20,7 @@
 
 ---
 
-## Demo Video
 
-> Add your Streamlit application demo video below
-
-[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](PASTE_VIDEO_LINK_HERE)
-
----
 
 # Project Overview
 
@@ -48,7 +42,7 @@ The project combines:
 
 to build a production-oriented intelligent invoice processing system.
 ## 🌐 Live Deployed Application  
-🔗(https://invoice-intelligence-system-ichmfea6brs3spf5vrphzp.streamlit.app/)
+🔗(https://abhishekpandit98-vendor-invoice-intelligence-system-app-sklaft.streamlit.app/)
 
 ---
 
@@ -459,28 +453,6 @@ A Streamlit-based interactive application was developed for business users.
 - Invoice Risk Detection
 - Interactive UI
 - Real-time prediction system
-
----
-
-# Streamlit Application Screenshots
-
-## Freight Cost Prediction Module
-
-> Add screenshot below
-
-```markdown
-![Freight Cost Prediction UI](screenshots/freight_prediction.png)
-```
-
----
-
-## Invoice Risk Flagging Module
-
-> Add screenshot below
-
-```markdown
-![Invoice Risk Flagging UI](screenshots/invoice_flagging.png)
-```
 
 ---
 
